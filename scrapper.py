@@ -49,7 +49,7 @@ class WhatsappBot:
                     botao_enviar = self.driver.find_element_by_xpath("//span[@data-icon='send']")
                     time.sleep(3)
                     botao_enviar.click()
-                    time.sleep(5)
+                    time.sleep(5) #periodo de envio de mensagem
             
 bot = WhatsappBot()
 bot.EnviarMensagens()
