@@ -12,7 +12,12 @@ Entra em um site de frases e seleciona uma **frase aleatória** depois envia ess
 
 ><img src="se.png" width="100">
 
+>https://selenium-python.readthedocs.io/
+
+
 ### Beautiful Soup:mag_right:
 >webscrapping
 
 ><img src="bfs.png" width="100">
+
+>https://www.crummy.com/software/BeautifulSoup/bs4/doc/
